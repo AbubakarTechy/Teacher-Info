@@ -1,0 +1,167 @@
+1------------------
+
+Dr. Muhammad Sarwar Ehsan
+Associate Dean/ Professor
+adean.foit@ucp.edu.pk
+Ext: 450
+Profile Summary
+Muhammad Sarwar Ehsan is associate professor of electrical engineering at University of Central Punjab, Lahore, Pakistan. He received MPhil degree in electronics from Qauid-e-Azam University, Islamabad in 1998 and PhD degree in electrical engineering from Graz University of Technology, Austria in 2007. His research interests include signal processing, multimedia processing, communication and information theory. He has been teaching since 1997 and worked in different institutes including GC University Lahore, Graz University of Technology Austria, COMSATS Institute Lahore and the University of Lahore. In 2014, he joined University of Central Punjab.
+
+Qualification
+PhD	Electrical Engineering	Graz University of Technology, Austria	2003-2007
+M.Phil	Electronics	Qauid-i-Azam University, Islamabad	1996-1998
+MSc	Physics with Specialization in Electronics	University of the Punjab, Lahore	1993-1995
+Research Interest
+Signal processing, adaptive systems, stochastic processes
+Experience
+Associate Professor	University of Central Punjab	2014-to date
+Associate Professor	University of Lahore	2009-2014
+Assistant Professor	COMSATS, Lahore	2008-2009
+PhD Student	Graz University of Technology, Austria	2003-2007
+Lecturer	GCU, Lahore	1998-2003
+Publications
+1	Fesal Toosy and M. Sarwar Ehsan, Statistical Inference of User Experience of Multichannel Audio on Mobile Phones", CMC-Computers, “Materials & Continua, Vol.65, No.2, pp. 1253-1270, 2020.
+2	Muhammad Rafiq, Ali Ahmadian, Ali Raza, Dumitru Baleanu, Muhammad Sarwar Ehsan, Mohammad Hasan Abdul Sathar, “Numerical Control Measures of Stochastic Malaria Epidemic Model",CMC-Computers, Materials & Continua, Vol.65, No.1, pp. 33-51, 2020.
+3	M. Sarwar Ehsan, Musharraf A. Hanif and Maryam Javed, “Comparison of Lease Mean Square Techniques for Spur cancellation in Fractional-N Frequency Synthesizer", IEEEP New Horizon, Vol. 101, No. 1-2, Pages 39-46, December, 2019.
+4	Musharraf A. Hanif, M. Sarwar Ehsan, and Atif Mehdi, “Design and Development of an Omni Wheel Soccer Robot", IEEEP New Horizon, Vol. 101, No. 1-2, Pages 22-29, December, 2019.
+5	Fesal Toosy and M. Sarwar Ehsan, “Subjective Evaluation of Multi-channel Audio and Stereo on Cell Phones", in Proceedings of 147th AES Convention held in New York City, USA, October 16-19, 2019.
+6	Fesal Toosy and M. Sarwar Ehsan, “Subjective Evaluation of Multi-channel Audio and Stereo on Cell Phones", in Proceedings of 147th AES Convention to be held in October, 2019, New York City, USA
+7	Fesal Toosy and M. Sarwar Ehsan, “Evaluation of Multichannel Audio in Automobiles versus Mobile Phones", in Proceedings of 147th AES Convention tobe held in October, 2019, New York City, USA.
+8	Fesal Toosy and M. Sarwar Ehsan, “BAQ and QoE: Subjective Assessment of 3D Audio on Mobile Phones", in Proceedings of 146th AES Convention to be held in March, 2019, Dublin, Ireland.
+9	Fesal Toosy and M. Sarwar Ehsan, “Statistical Analysis of Subjective Assessment Tests of 3D Audio on Mobile Phones", in Proceedings of AES International Conference on Interactive and Immersive Audio to be held in March, 2019, York, UK.
+10	S. M. Yasir, M. T. Mushtaq, M. S. Khan, W. A. Salam, M. S. Ehsan, H. Nawaz, “The Attenuation of Free Space Optical Communication under Dusty Conditions in Lahore", Vol. 49, No. 4, 875- 880 (2017) Sindh University Research Journal (Science Series).
+11	A. Mehmood, M. T. Mushtaq, H. Nawaz, M. S. Ehsan, H. B. Ahmad, “Simfree Communication using Rasberry Pi+ Based Basestation for Disaster Mitigation", Vol. 49, No. 1, 195-200 (2017) Sindh University Research Journal (Science Series).
+12	Raheel Muzzammel and Muhammad Sarwar Ehsan, “Forward and Inverse Problem Formulation of Optical Tomography Based on Equation of Radiative Transfer", British Journal of Applied Science & Technology, 8(2):, 2015, Article no. BJAST. 2015.
+13	M Zeeshan Raza, M Sarwar Ehsan, M. Ahsan Javaid, Kamran Liaqat Bhatti, Kashif Azeem, "Implementation and Analysis of Feature based Face Detection Algorithm", Sci.Int. (Lahore),27(4), 3217-3221, 2015.
+14	H. Nawaz, H. M. Ali, H. A. Ranjho, A. R. Lakhan, M. S. Ehsan and G. Nabi, “Performance Evaluation of TDRP and EDRP for Voice and Video Services in MANET", Vol 47, No 3 (2015): Sindh University Research Journal (Science Series)
+15	M. M. A. Bhutta, A. M. Qureshi, H. Z.Warraich, M. I. Masood, M. S. Ehsan, “Two Axis Motion Simulator: Design And Dynamic Analysis", Vol. 43, No. 2, 109117 (2015), Journal of the Pakistan Institute of Chemical Engineers.
+16	M.T. Mushtaq, M. S. Khan, M. S. Ehsan, M.S. Khan and G. Jaffar “Frequency Analysis and election for Cognitive Radio using Fuzzy Logic System", Pensee Journal, Vol. 76, No. 1, Jan, 2014.
+17	H. Nawaz, S. Soomro, S. H. Abbas, M. S. Ehsan, M. Y. Koondhar, "Performance Evaluation of TDRP and EDRP for Voice and Video Services in MANET" , vol 47, no 3 (2013): Sindh University Research Journal (science series)
+18	M. Z. Raza, M. Siddique, M. Sarwar Ehsan and Safeeullah Soomro, “Implementation of Device Control Technique Using Voice Signal", Vol 45, No 4 (2013): Sindh University Research Journal (Science Series)
+19	H. U. Mughal, M. M. A. Bhutta, M. Athar, E. M. Shahid, M. S. Ehsan, “The alternative fuels for four stroke compression ignition engines: performance analysis", Vol. 36, No. M2, 155-164 (2012) Iranian Journal of Science and Technology. Transactions of Mechanical Engineering.
+20	M. Sarwar Ehsan and G. Kubin, “Playout Delay Calculations based on Truncated Gaussians for Internet Telephony", in proceedings of IEEE International Conferences on Information, Communications and Signal Processing (ICICS09), held on 8-10 December 2009, Macau, China.
+21	Franz Braeuer, M. Sarwar Ehsan and G. Kubin, “Subjective Evaluation of Conversational Multimedia Quality in IP Networks", in proceedings of IEEE International Workshop on Multimedia Signal Processing (MMSP 08), held on 8-10 October 2008 Cairns, Queensland, Australia.
+22	M. Sarwar Ehsan and G. Kubin, “Maximum Entropy Playout Delay Distribution for Real-Time Speech Communication in Packet Networks", in proceeding of IEEE International Symposium on Communication Systems, Networks and Digital Signal Processing, held on 23-25 July 2008 Graz, Austria.
+23	M. Sarwar Ehsan and G. Kubin, “Frame Change Ratio: A Measure to Model Short-time Stationarity of Speech", in proceeding of IEEE conference on Innovations in Information Technology (IIT 06), held from 19 to 21 November 2006 in Dubai, United Arab Emirates.
+24	Abid Ali Minhas, Christian Steger, Reinhold Weiss, and M. Sarwar Ehsan, “Node failure detection and path repairing scheme in virtual circuit routing algorithm for wireless ad hoc micro sensor networks" in proceedings of IEEE International Conference on Emerging Technologies (ICET), held on 17-18 September 2005 in Islamabad, Pakistan, pages 86-91.
+25	M. Sarwar Ehsan and G. Kubin, “Effect of Buffer Length on Rate-Distortion Bound of Different PLC Methods" in Proceeding of IEEE International Conference on Emerging Technologies (ICET), held on 17-18 September 2005 in Islamabad, Pakistan.
+26	M. Sarwar Ehsan and G. Kubin, “Rate Distortion Bound for Different PLC Method in Real-Time Speech Communication" in proceeding of Measurement of Speech and Audio Quality In Networks (MESAQIN 05), held on 9-10 June 2005 in Prague, Czech Republic.
+27	Ali Raza, Jan Awrejcewicz, Muhammad Rafiq, Muhammad Sarwar Ehsan and Muhammad Mohsin, “Dynamical Analysis and Design of Computational Methods for Nonlinear Stochastic Leprosy Epidemic Model”,Alexandria Engineering Journal, Volume 61, Issue 10, October 2022, Pages 8097-8111. 2. Fesal Toosy and M. Sarwar Ehsan, “Statistical Inference of User Experience of Multichannel Audio on Mobile Phones”, CMC-Computers, Materials & Continua, Vol.65, No.2, pp. 1253-1270, 2020. 3. Muhammad Rafiq, Ali Ahmadian, Ali Raza, Dumitru Baleanu, Muhammad Sarwar Ehsan, Mohammad Hasan Abdul Sathar, “Numerical Control Measures of Stochastic Malaria Epidemic Model”,CMC-Computers, Materials & Continua, Vol.65, No.1, pp. 33-51, 2020.
+
+
+2-------------------------
+Dr. Mohsin Ashraf
+Associate Professor
+& HODCS
+mohsin.ashraf@ucp.edu.pk
+Ext: 467
+Profile Summary
+Dr. Mohsin Ashraf is a highly accomplished and dedicated professional in computer science. He received his Ph.D. from Northwest University Xian, China, and is currently the Head of the Computer Science Department at UCP (University of Central Punjab). He demonstrates strong organizational skills, fosters collaboration among faculty members, and promotes a culture of excellence and innovation. He was awarded the outstanding international Ph.D. Scholar by the education ministry of China by the year 2020. With over 18 years of teaching experience, he has made significant contributions to the academic community through his research work. He has published numerous articles in top-tier journals and conferences, showcasing his expertise and innovative ideas. With his extensive knowledge and experience, he creates a dynamic learning environment, equipping students with the necessary skills to excel in the rapidly evolving world of computer science. He continues to make significant contributions to the field, pushing the boundaries of knowledge and inspiring the next generation of computer scientists.
+
+Qualification
+PhD	Computer Science	Northwest University, Xian, China	2021
+MS	Computer Science	University of Central Punjab, Lahore	2015
+BS	Computer Science	University of Central Punjab, Lahore	2004
+Research Interest
+Machine Learning and Deep learning based classification algorithms and Techniques
+Experience
+Assistant Professor	University of Central Punjab	2021 - date
+Assistant Professor	University of Lahore	2020-2021
+Lecturer	Punjab College of Information Technology	2007-2017
+Lecturer	College of Accountancy and Professional Studies	2005-2007
+Publications
+1	Ashraf, M.; Abid, F.; Din, I.U.; Rasheed, J.; Yesiltepe, M.; Yeo, S.F.; Ersoy, M.T. A Hybrid CNN and RNN Variant Model for Music Classification. Appl. Sci. 2023, 13, 1476. Online
+2	Jamil, A., Ashraf, M., Farooq, A., Khan, M. B., Ahmed, U., & Umair, M. (2023, February). An Optimized Algorithm for Human Portrait Image Segmentation Using U-Net. In 2023 4th International Conference on Advancements in Computational Sciences (ICACS) (pp. 1-6). IEEE.
+3	Ghaffar, A., Abid, F., Ashraf, M., Jamil, A., Abbas, A., & Malik, F. R. (2023). Identification of an Optimized Google PageSpeed Audit-Rule-Sequence to Optimize Page Speed.
+4	Ashraf, M., Abid, F., Atif, M., & Bashir, S. (2022). The Role of CNN and RNN in the Classification of Audio Music Genres.
+5	Ghouri, M. G., & Ashraf, M. (2022). The Prediction of Cryptocurrency Prices Using Neural Architectures and Sentiment Analysis.
+6	Rauf, F., Irfan, R., Mushtaq, L., & Ashraf, M. (2022). Fake News Detection in Urdu using Deep Learning.
+7	Jabbar, M. A., Hussain, M., Farooqi, S., & Ashraf, M. (2022). Formal Modeling and Analysis of Integrated Healthcare System using Colored Petri Nets.
+8	Iqbal, T., Farooq, A., Sarwar, N., Ashraf, M., & Irshad, A. (2022). Developing a Tumor Diagnosis Application for Medical Practitioners using Transfer Learning. BioScientific Review, 4(1), 17-17.
+9	Ashraf, M., Ahmad, F., Rauqir, R., Abid, F., Naseer, M., & Haq, E. (2021, December). Emotion recognition based on musical instrument using deep neural network. In 2021 International Conference on Frontiers of Information Technology (FIT) (pp. 323-328). IEEE.
+10	Ashraf, M., Geng, G., Wang, X., Ahmad, F., & Abid, F. (2020). A globally regularized joint neural architecture for music classification. IEEE Access, 8, 220980-220989.
+11	M. Ashraf, G. Guohua, X. Wang and F. Ahmad, "Detection and Resolving WSN Issues with the use of Data Mining & Intelligent Algorithms," 2018 International Conference on Frontiers of Information Technology (FIT), 2018, pp. 253-258, doi: 10.1109/FIT.2018.00051.
+12	M. Ashraf, G. Guohua, X. Wang and F. Ahmad, "Integration of Speech/ Music Discrimination and Mood Classification with Audio Feature Extraction," 2018 International Conference on Frontiers of Information Technology (FIT), 2018, pp. 224-229, doi: 10.1109/FIT.2018.00046.
+13	M. Ajmal, F. Ahmad, M. -E. A.M., M. Naseer, A. Muhammad and M. Ashraf, "Image to Multilingual Text Conversion for Literacy Education," 2018 17th IEEE International Conference on Machine Learning and Applications (ICMLA), 2018, pp. 1328-1332, doi: 10.1109/ICMLA.2018.00215.
+14	Ashraf, M., Bilal, H., Khan, I. A., & Ahmad, F. (2016). Vanet challenges of availability and scalability. VFAST Transactions on Software Engineering, 10(2), 1-8.
+15	Shahzad, F., Abid, F., Obaid, A. J., Kumar Rai, B., Ashraf, M., & Abdulbaqi, A. S. (2021). Forward stepwise logistic regression approach for determinants of hepatitis B & C among Hiv/Aids patients. International Journal of Nonlinear Analysis and Applications, 12, 1367-1396.
+16	Das, K., Shehryar, M., Abid, F., Ashraf, M., Adil, M., Inam, S., ... & Mushtaq, H. (2021). Impact of using e-learning tools on Student’s Psychological Health during covid-19.
+
+
+33333333333333333
+
+Dr. Abbas Khalid
+Professor / Associate Dean
+abbas.khalid@ucp.edu.pk
+(042) 35880007/7804
+Profile Summary
+Dr Khalid earned a PhD from Lancaster University, UK, in 2012, following the completion of his master’s degree in Computer Science at the University of Central Punjab, Lahore. With over 18 years of experience in teaching, he has developed a strong professional track record. He has provided guidance and supervision to numerous undergraduate and graduate students in their projects and research work. His research expertise lies in Multiple Access Communication Systems, Power Line Communication, and Internet of Things. Beyond his teaching and research roles, he actively contributed to curriculum development and engaged in industrial collaboration efforts. His extensive academic and practical background establishes him as a dedicated professional in the field of technology and academia.
+
+Qualification
+PhD	Communication Systems	University of Lancaster, UK	2012
+MS	Computer Science	University of Central Punjab, Lahore, Pakistan	2005
+Experience
+Associate Professor	University of Central Punjab, Lahore.	March 2023 – till date
+Associate Professor	The University of Lahore, Lahore.	Jan 2022 – March 2023
+Assistant Professor	The University of Lahore, Lahore.	Sep 2018 – Jan 2022
+Assistant Professor	COMSATS Institute of Information Technology, Abbottabad.	Dec 2012 – Sep 2018
+Lecturer	COMSATS Institute of Information Technology, Abbottabad.	Sep 2005 – Sep 2008
+Publications
+1	Yousaf, S., Haque, H. M. U., Atif, M., Hashmi, M. A., Khalid, A., & Vinh, P. C. (2023). A context-aware multi-agent reasoning based intelligent assistive formalism. Internet of Things, 100857.
+2	Butt, S. A., Khalid, A., Ali, A. (2022). A software development for medical with a multiple decision taking functionalities. Advances in Engineering Software, 174 (2022) 103294.
+3	Jajja, A. I., Abbas, A., Khattak, H. A., Niedbała, G., Khalid, A., Rauf, H. T., Kujawa, S. (2022). Compact Convolutional Transformer (CCT)-Based Approach for Whitefly Attack Detection in Cotton Crops. Agriculture, 12(10):1529.
+4	Awaisi, K. S., Abbas, A., Khattak H. A., Ahmad, A., Ali, M., Khalid, A. (2022). Deep Reinforcement Learning approach towards a Smart Parking Architecture. Cluster Computing, 1-12.
+5	Awaisi, K. S., Abbas, A., Khattak H. A., Khalid, A., Rauf H., T., Kadry, S. (2022). A dynamic load balancing mechanism for fog computing environment. International Journal of Web and Grid Services, 18(3), 337-360.
+6	Yousaf, S., Mahfooz, H., Khalid, A., Hashmi, M. A., Khan, E. (2022). Modelling and Verification of Context-Aware Intelligent Assistive Formalism. CMC-Computers, Materials & Continua, 71(2), 3355 -3373.
+7	Rana, T. A., Bakht, B., Afzal, M., Mian, N. A., Iqbal, M. W., Khalid, A., Naqvi, M. R. (2021). Extraction of opinion target using syntactic rules in Urdu text. Intelligent Automation and Soft Computing, 29(3), 839-853.
+8	Amin, A., Rana, T. A., Mian, N. A., Iqbal, M. W., Khalid, A., Alyas, T., Tubishat, M. (2020). TOP-Rank: A Novel Unsupervised Approach for Topic Prediction using Keyphrase Extraction for Urdu Documents. IEEE Access, 8, 212675-212686.
+9	Irshad, T., Shan, R. U., Ahmad, R. W., Khalid, A., Ab Hamid, S. H. (2020). MULTI-RAT BASED ADAPTIVE QUALITY OF SERVICE (QOS) MANAGEMENT IN WBAN. Malaysian Journal of Computer Science, 33(4), 252-269.
+10	Khalid, A., Adebisi, B., Shan, R. U., Honary, B. (2020). Mitigating cyclostationary noise using multi‐fold turbo codes on a two‐user narrowband power‐line binary adder channel. International Journal of Communication Systems, Wiley 33(17), e4605.
+11	Khalid, A., Adebisi, B., Din, A., Khan, E., Abbas, A., Honary, B. (2020). Deterministic Multipath Model for the Power-Line Channel. National Academy Science Letters, Springer 1-4.
+12	Khan, E., Khalid, A., Ali, A., Atif, M., Khan, A. S. (2020). Geo Security using GPT Cryptosystem. International Journal of Advanced Computer Science and Applications. 11(2), 514-521.
+13	Zia, K., Muhammad, A., Khalid, A., Din, A., Ferscha, A. (2019). Towards exploration of social in social internet of vehicles using an agent-based simulation. Complexity, 2019.
+14	Khan, O., Din, A., Khalid, A., Khan, A., Ahmed, A., Zia, K. (2019, December). Online Adversarial Coverage for Multi-Agent Systems. In 15th International Conference on Emerging Technologies (ICET) (pp. 1-6). IEEE.
+15	Din, A., Jabeen, M., Zia, K., Khalid, A., Saini, D. K. (2018). Behavior-based swarm robotic search and rescue using fuzzy controller. Computers & Electrical Engineering, 70, 53-65.
+16	Din, A., Ahmed, A., Khalid, A., Khan, O., Zia, K. (2018). Swarm Based Coverage Using Multiple Informed Leaders. Sukkur IBA Journal of Computing and Mathematical Sciences, 2(1), 61-69.
+17	Khalid, A., Khan, E., Adebisi, B., Honary, B., Khan, S. U. (2014). Image transmission using unequal error protected multi-fold turbo codes over a two-user power-line binary adder channel. IET Image Processing, 9(5), 395-404.
+18	Adebisi, B., Khalid, A., Tsado, Y., Honary, B. (2014, July). Narrowband PLC channel modelling for smart grid applications. In 9th International Symposium on Communication Systems, Networks & Digital Sign (CSNDSP) (pp. 67-72). IEEE.
+19	Khalid, A., Ahmed, H., Farrell, P. G., Honary, B., (2012, June). Multi-Fold Turbo Codes for the 2-User Binary Adder Channel. 13th Annual Post Graduate Symposium on the Convergence of Telecommunications, Networking and Broadcasting (PGNet2012), Liverpool, UK, (pp. 287-291) ISBN: 978-1-902560-26-7.
+
+
+444444444444
+
+Dr. Ahmad Shabbar Kazmi
+Professor
+ahmad.kazmi@ucp.edu.pk
++92-42-35880007 Ext: 467
+Profile Summary
+More than 22 years (includes 11 year University level teaching) experience of Object Oriented software and solution architecture, designing and development.Currently involved in pioneering research in Event Prediction from historical data using artificial intelligent techniques (Markov Chain, Neural Networks, Kalman Filter etc) .Game Development Process optimization and concepts of Immersive games Application of Event Prediction in Telecom Network fault and performance management. This research includes use of historical alarm data to predict and manage faults and performance degradation in telecom networks, Auto Cell optimization in response to the user temporal and spatial distribution, Data feature analysis to match with the best corresponding data processing technique
+
+Qualification
+PhD	Computer Engineering	Boston University, Boston, Massachusetts.	December 1999
+MS	Computer Engineering	Boston University, Boston, Massachusetts.	September 89
+BS	Electrical Engineering	University of Engineering and Technology, Lahore, Pakistan.	August 86
+Experience
+Dean and Professor, Faculty of Information Technology	University of Central Punjab, Lahore Pakistan	2018 – To date
+Head Of Department And Professor, Computer science	University of Central Punjab, Lahore Pakistan	2014 – 2018
+Associate Professor, Computer Engineering	National University of Emerging Sciences and Technology, Lahore, Pakistan)	2005-2014
+Senior System Analyst	Telus Mobility, Scarborough, ON. Canada (2nd largest Mobile phone company in Canada)	2003-2005
+System Architect / Analyst	Town of Richmond Hill, Richmond Hill, ON. (Provide IT Solutions to Client)	2001-2003
+Chief Technical Architect	Onsidekick.com, Toronto, ON. (Brings mass customization of products to B2B)	2000-2001
+Senior Software Engineer	Customer Analytics Incorporated, Burlington, MA. (Developed Enterprise Relationship Management software for the Banking industry)	1999-2000
+Software Engineer	Interleaf Incorporated, Waltham, MA. (Provided Documents and content management using XML)	1996-1998
+Wakfield, MA.	Full Time Ph. D student and a Contract Position at Boston Technology	1995-1996
+Software Engineer	CSPI (Scanalytic), Inc., Billerica MA. (Makes medical imaging software)	1994-1995
+Lecturer	Boston University, Boston, MA	1992-1995
+Graduate	TEACHING FELLOW	1992-1995
+Publications
+1	Kazmi A and Shafiq B, “Application of Neural Networks for fault prediction in PTCL network” [Ready: Targeted for IEEE transaction on Networking, Oct 2017]
+2	Kazmi A, “3 Dimensional Demagnetizing field calculations using Wavelet Transform” (In-progress: Targeted for Journal of Applied Physics Nov 2017)
+3	Kazmi A and Giles R, “3 Dimensional Adaptive Fast Multipole Expansion method for Demagnetizing field calculations” (In-progress: Targeted for Journal of Applied Physics Dec 2017)
+4	Kazmi A. “An Object Oriented Framework for the Implementation of the Fast Multipole Expansion Method”, 11th International Conference on Telecommunications, ConTEL 2011, Graz, Austria, June 15–17, 2011
+5	Kazmi A. “Application of Markov Chain to Predict Faults from Real Time Alarm Data”, IADIS Telecommunications, Networks and Systems 2010 (Freiburg, Germany, 26 to 28 July 2010)
+6	Redjdal M, Gross P, Kazmi A and Humphrey F., “Switching Dependence on fabrication Accuracy of Tapered Ends of a Single GMR Memory Cell in Word (J. Appl. Phys. 85, 6193 (1999)) [impact factor 2.49] Kazmi A and Giles R, “An Efficient Demagnetizing Field Calculation Scheme” (J. Appl. Phys. 79, 4685 (1996)) [impact factor 2.49]
+7	Kazmi, A. and Humphrey, F., “Optimization of Code Used for Three Dimensional Micromagnetic Simulations”, Technical Report submitted to Department of Defense. September 1996. (Work supported by a grant from department of defense) azmi, A., “An Automatic Micro-Code Synthesizer”, technical report submitted to Prof. Brayant York, Department of Computer Science, Boston University, Boston, Mass. 1991.
+
+555555555555555555
+

@@ -1,0 +1,65 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Teacher Book | Find your FOIT Teachers</title>
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+
+  <!-- Navbar -->
+  <nav class="navbar">
+    <div class="nav-left">
+      <a href="/" class="logo">
+        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 19.5v-15A2.5 2.5 0 0 1 6.5 2H20v20H6.5a2.5 2.5 0 0 1 0-5H20"/></svg>
+        Teacher Book
+      </a>
+    </div>
+    <div class="nav-right">
+      <a href="/">Home</a>
+      <a href="/all_teachers">All Teachers</a>
+    </div>
+  </nav>
+
+  <!-- Hero Section -->
+  <section class="hero">
+    <div class="inner">
+      <h1 class="title">Connect with your Teachers</h1>
+      <p class="subtitle">Quickly find information about what your teachers have studied, their experience, and how to reach them. The definitive directory for the Faculty of Information Technology (FOIT).</p>
+      <div class="search-bar">
+        <form action="/search" method="post">
+          <input class="search" type="text" name="name" placeholder="Search by name (e.g., Hira)" autocomplete="off">
+          <button class="btn" type="submit">Search</button>
+        </form>
+      </div>
+    </div>
+  </section>
+
+  <!-- Teachers Section -->
+  <section id="teachers" class="teachers">
+    <div class="section-title">Featured Faculty</div>
+    <div class="grid">
+      {% for t in teachers %}
+      <a href="{{ url_for('teacher_detail', email=t['email']) }}" class="card">
+        <div class="card-img-wrapper">
+          <img src="{{ t['picture_url'] }}" alt="{{ t['name'] }}" loading="lazy">
+        </div>
+        <h3>{{ t['name'] }}</h3>
+        <p class="muted">{{ t['department'] }}</p>
+        <div class="btn-link">View Profile</div>
+      </a>
+      {% endfor %}
+    </div>
+    <div style="text-align:center; margin-top:40px;">
+      <a href="/all_teachers" class="view-all-btn btn-secondary">View All Teachers</a>
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer class="footer">
+    <p>Developed with precision. &copy; 2026 FOIT</p>
+  </footer>
+
+</body>
+</html>

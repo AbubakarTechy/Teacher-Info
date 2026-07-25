@@ -1,0 +1,852 @@
+
+
+6.
+Dr. Nabeel Sabir Khan
+Associate professor
+
+7.
+
+Dr. Muhammad Adnan Aziz
+Associate Professor
+
+Profile Summary
+Dr. Muhammad Adnan Aziz has 13½ years’ experience of university teaching at both under graduate and graduate level. He holds a doctoral degree in electronic engineering from Isra University, Islamabad Campus. He received his Master’s degree in electronic engineering from Muhammad Ali Jinnah University, Islamabad Campus. He completed his graduation in computer sciences from AIOU Islamabad. He brings with him a rich experience in curriculum development and academic management. Dr. Adnan’s research interests include Computational Intelligence, Demand Side Power Optimization, Biomedical Signal Processing and Energy & Route Optimization in FANETs.
+
+Qualification
+PhD EE	Computational Intelligence	Isra University, Islamabad Campus	2017
+MS EE	Signal Processing	Muhammad Ali Jinnah University, Islamabad Campus	2008
+Bachelors in Computer Science	Computer Science	Allama Iqbal Open University, Islamabad Campus	2002
+Experience
+Associate Professor	Isra University, Islamabad Campus	December 2021 to October 2022
+Assistant Professor	Isra University, Islamabad Campus	May 2009 to November 2021
+Publications
+1	Fazal Subhan, Muhammad Adnan Aziz, Inam Ullah Khan, Muhammad Fayaz, Marcin Wozniak, Jana Shafi, and Muhammad Fazal Ijaz. "Cancerous Tumor Controlled Treatment Using Search Heuristic (GA)-Based Sliding Mode and Synergetic Controller" MDPI Cancers, Vol. 14(17), 2022. [IF 6.575]
+2	Inam Ullah Khan, Muhammad Abul Hassan, Muhammad Fayaz, Jeonghwan Gwak, Muhammad Adnan Aziz. “Improved Sequencing Heuristic DSDV Protocol Using Nomadic Mobility Model for FANETS”. Computers, Materials & Continua Tech Science Press, Vol. 70(2), 3653–3666, 2022. [IF 3.772]
+3	Ayesha Abbasi, kiran Sultan, Muhammad Adnan Aziz, Adnan Umar Khan, Hassan A. Khalid, and Josep M. Guerrero. “A Novel Dynamic Appliance Clustering Scheme in a Community Home Energy Management System for Improved Stability and Resiliency of Microgrids”. IEEE Access Vol. 9, 142276- 142288, 2021. [IF 3.367]
+4	Fazal Subhan, Muhammad Adnan Aziz, Jawad Ali Shah, Kushsairy Abdul Kadir and Ijaz Mansoor Qureshi, "Tumor Treatment Protocol by Using Genetic Algorithm Based Bernstein Polynomials and Sliding Mode Controller". IEEE Access, vol. 9, pp. 152503-152513, 2021. [IF 3.367]
+5	Alamgir Safi, Muhammad Asghar Khan, Fahad Algarni, Muhammad Adnan Aziz, M. Irfan Uddin, Insaf Ullah, Tanweer Ahmad Cheema. “Ambiguity Resolution in Direction of Arrival Estimation with Linear Antenna Arrays Using Differential Geometry”. Computers, Materials & Continua Tech Science Press, Vol 70(1), 581-599, 2021. [IF 3.772]
+6	Inam Ullah Khan, Ijaz Mansoor Qureshi, Muhammad Adnan Aziz, Tanweer Ahmad Cheema, Syed Bilal Hussain Shah, “Smart IoT Control-Based Nature Inspired Energy Efficient Routing Protocol for Flying Ad Hoc Network (FANET)”. IEEE Access Vol. 8, 56371-56378, 2020. [IF 3.367]
+7	Muhammad Asghar Khan, Tanweer Ahmad Cheema, Insaf Ullah, Fazal Noor, Sajjad Ur Rehman, Ateeq Ur Rehman, Muhammad Adnan Aziz, "A Dual-Mode Medium Access Control Mechanism for UAV-Enabled Intelligent Transportation System", Mobile Information Systems, vol. 2021. [IF 1.808]
+8	Inam Ullah Khan, Ryan Alturki, Hasan J. Alyamani, Mohammed Abdulaziz Ikram, Muhammad Adnan Aziz, Vinh Truong Hoang, Tanweer Ahmad Cheema, "RSSI-Controlled Long-Range Communication in Secured IoT-Enabled Unmanned Aerial Vehicles", Mobile Information Systems, vol. 2021. [IF 1.808]
+9	Alamgir Safi, Muhammad Asghar Khan, Muhammad Adnan Aziz, Mohammed H. Alsharif, Tanweer Ahmad Cheema, Insaf Ullah, Abu Jahid, Abdulaziz H. Alghtani, and Ayman A. Aly. "Application of Differential Geometry to the Array Manifolds of Linear Arrays in Antenna Array Processing" Electronics, 2021. vol. 10(23):2964. [IF 2.397]
+10	Inam Ullah Khan, Syed Bilal Hussain Shah, Lei Wang, Muhammad Adnan Aziz, Thompson Stephan, Neeraj Kumar, “Routing protocols & unmanned aerial vehicles autonomous localization in flying networks”. International Journal of Communication System. 2021. https://doi.org/10.1002/dac.4885” [IF 2.047]
+11	Fazal Subhan, Suheel Abdullah Malik, Muhammad Asghar Khan, Muhammad Adnan Aziz, M. Irfan Uddin, Insaf Ullah. “Numerical Investigation of Thin Film Flow of a Third Grade Fluid on a Moving Belt Using Evolutionary Algorithm Based Heuristic Technique”. Journal of Circuits, Systems and Computers. 2021. “https://doi.org/10.1142/S0218126622500116” [IF 1.333]
+12	Muhammad Asghar Khan, Insaf Ullah, Shibli Nisar, Fazal Noor, Ijaz Mansoor Qureshi, Fahimullah Khanzada, Hizbullah Khattak, Muhammad Adnan Aziz, “Multiaccess Edge Computing Empowered Flying Ad Hoc Networks with Secure Deployment Using Identity-Based Generalized Signcryption”. Hindawi, Mobile Information Systems, Vol. 2020. [IF 1.808]
+13	Muhammad Adnan Aziz, Ijaz Mansoor Qureshi, Tanweer Ahmad Cheema, Akram Rashid. “Community based Home Energy Management System”, IIUM Engineering Journal, 18(1): 43-55, 2017.
+14	Muhammad Adnan Aziz, Ijaz Mansoor Qureshi, Tanweer Ahmad Cheema, Aqdas Naveed Malik. “Time based Device Clustering for domestic power scheduling”, International Journal of Advanced and Applied Sciences, 4(1): 1-9, 2017.
+
+8.
+Dr. Abdullah Yousafzai
+Associate professor
+
+______________________________________________________
+9 to 19
+
+
+9.
+Dr. Ali Saeed
+Associate Professor
+Ali.saeed@ucp.edu.pk
+Ext: 577
+Profile Summary
+Dr. Ali Saeed has been a university faculty member for ten years. He received his PhD in computer science from Pakistan’s COMSATS University Islamabad, Lahore Campus. The Government College University of Pakistan in Lahore is where he obtained his MPhil. He received a BS (Hons) in Computer Science from the Punjab University College of Information Technology (PUCIT), Lahore, Pakistan. His study aims to create deep learning and machine learning models for languages with limited resources. He is enthusiastic in teaching the courses of computer programming, machine learning, natural language processing, and web engineering.
+
+Qualification
+PhD	Computer Science	COMSATS University Islamabad, Lahore Campus	2021
+MS	Computer Science	Govt College University	2010
+BS (Hons)	Computer Science	PUCIT, Lahore	2008
+Research Interest
+NLP, Text Processing, and Machine Learning (Deep Learning, Transfer Learning, and LLMs)
+Experience
+Assistant Professor / Lecturer	University of Lahore	2017-2021
+Lecturer	University of Sargodha	2014-2017
+IT Instructor	TEVTA	2011-2013
+Publications
+1	Saeed, A., Nawab, R.M.A., Stevenson M., and Rayson, P., 2018. A Word Sense Disambiguation Corpus for Urdu. Language Resources and Evaluation, Springer 51(3), pp.1-22.
+2	Saeed, A., Nawab, R.M.A., Stevenson M., and Rayson, P., 2019. A Sense Annotated Corpus for All-Words Urdu Word Sense Disambiguation. ACM Transactions on Asian and Low-Resource Language Information Processing (TALLIP) 18(4), pp.40-54.
+3	Saeed, A., Nawab, R.M.A., and Stevenson M., 2021. Investigating Deep Learning Methods for Urdu Word Sense Disambiguation. ACM Transactions on Asian and Low-Resource Language Information Processing (TALLIP).
+4	Fatima, G., Khan, M.S., Nawab, R.M.A and Saeed A., 2021. Developing a Cross-lingual Semantic Word Similarity Corpus for English–Urdu Language Pair. ACM Transactions on Asian and Low-Resource Language Information Processing (TALLIP)
+5	Hayat, U., Saeed, A., Vardag, M.H.K., Farhat M., Iqbal N., 2022. Roman Urdu Fake Reviews Detection using Stacked LSTM. SN Computer Science, Springer 3(6), pp.1-19
+6	Muneer, I., Fatima, G., Nawab, R.M.A., Khan, M.S., Saeed, A. 2022. Developing a Large Benchmark Corpus for Urdu Semantic Word Similarity. ACM Transactions on Asian and Low-Resource Language Information Processing (TALLIP).
+
+10.
+Adeel Arif
+Assistant Professor
+adeel.arif@ucp.edu.pk
+Ext: 591
+Profile Summary
+Adeel Arif has been a faculty member at the University of Central Punjab since 2011. He is currently an Assistant Professor in the Faculty of Information Technology. He received his MSc degree in Electrical Engineering from GCU, Lahore in 2013, and BSc degree in Electrical Engineering from UCP, Lahore in 2010. He is presently enrolled as PhD scholar in Intelligent Robotics and Machine Vision Laboratory at School of Electrical and Electronics Engineering, Shanghai Jiao Tong University, Shanghai, China. He is a member of the Pakistan Engineering Council (PEC) and The Institution of Electrical and Electronics Engineering Pakistan (IEEEP). His current research interest includes visual servoing, adaptive robot control, and autonomous driving./p>
+
+Qualification
+PhD	Electrical Engineering	Shanghai Jiao Tong University, Shanghai	2017 – In Progress
+MSc	Electrical Engineering	Government College University, Lahore	2013
+BSc	Electrical Engineering	University of Central Punjab, Lahore	2010
+Experience
+Assistant Professor	University of Central Punjab, Lahore	2021 – To date
+PhD Scholar	Shanghai Jiao Tong University, Shanghai	2017 – 2021
+Assistant Professor	University of Central Punjab, Lahore	2015 – 2017
+Lecturer	University of Central Punjab, Lahore	2013 – 2015
+Lab Engineer	University of Central Punjab, Lahore	2012 – 2013
+Teaching Assistant	University of Central Punjab, Lahore	2011 – 2012
+Publications
+1	A. Arif, H. Wang, H. Castañeda and Y. Wang, "Finite-Time Tracking of Moving Platform With Single Camera for Quadrotor Autonomous Landing," in IEEE Transactions on Circuits and Systems I: Regular Papers, vol. 70, no. 6, pp. 2573-2586, June 2023, doi: 10.1109/TCSI.2023.3256063
+2	Adaptive visual servo control law for finite-time tracking to land quadrotor on moving platform using virtual reticle algorithm." Robotics and Autonomous Systems 141 (2021)
+3	Multi-Agent Surveillance and Threat Evaluation for Indoor Environment”. IEEEP New Horizons (2018)
+4	Diagnostic Simulation of Single Phase Induction Motor Noise with Different PWM Schemes” Science International (Lahore) 2016
+5	Computer Vision Based Navigation Module for Sustainable Broad-Acre Agriculture Robots” Science International (Lahore) 2014
+
+11.
+Dr. Salman Muneer
+Assistant Professor
+Salman.muneer@ucp.edu.pk
+Ext: 7890
+Profile Summary
+Mr. Salman Muneer, has 8 years of experience in industry and academia. Currently, I am a PhD Scholar of Computer Science and holds MSc. in Computer Engineering from The Islamia University of Bahawalpur, Bahawalpur, and BS in Computer Engineering from NFC-Institute of Engineering & Technology, Multan. My research interests encompass the fields of Artificial Intelligence, Explainable Artificial Intelligence, Blockchain Technology and Machine Learning.
+
+Qualification
+PhD	Computer Science	National College of Business Administration & Economics, Lahore	In Progress
+MSc	Computer Engineering	The Islamia University of Bahawalpur, Bahawalpur	2021
+BSc	Computer System Engineering	NFC-Institute of Engineering & Technology, Multan	2016
+Experience
+Research Associate	University of Management & Technology, Lahore	January 2024- March 2024
+Lecturer	National College of Business Administration & Economics, Lahore	October 2021- January 2024
+Lecturer	The Legend College, Multan	October 2019- September 2021
+Junior Officer System Support (IT)	Recep Tayyip Erdogan Hospital (The Indus Hospital), Muzaffargarh	September 2017- September 2021
+Publications
+1	A Critical Review of Artificial Intelligence Based Approaches in Intrusion Detection: A Comprehensive Analysis 2024 Journal Of Engineering 2024 https://doi.org/10.1155/2024/3909173
+2	Systematic Review: Enhancing Educational Performance Prediction using Machine Learning Algorithms 2024 International Journal of Computational and Innovative Sciences 3/1 https://ijcis.com/index.php/IJCIS/article/view/106
+3	Blockchain Empowered Network Security: A Critical Analysis of Detection Approaches and Innovations 2023 International Journal of Advanced Sciences and Computing 2/2 http://ijasc.com/index.php/ijasc/article/view/43
+4	Systematic Review: Predictive Models for the Winning Team of Super Leagues (SL) 2023 IEEE Conference --- 10.1109/ICBATS57792.2023.10111268
+5	Comparatively Analysis of Compression Chiller (Model # GVWF 260) Using Machine Learning Techniques 2023 IEEE Conference --- 10.1109/ICBATS57792.2023.10111324
+6	Usability Evaluation of Kids’ Learning Apps 2023 IEEE Conference --- 10.1109/ICBATS57792.2023.10111473
+7	Conceptual Cognitive Model for Human-Machine Social Contact and Emotion based Generated Behaviors 2023 IEEE Conference --- 10.1109/ICBATS57792.2023.10111124
+8	Playing the video games during COVID-19 pandemic and its effects on player's well-being 2023 IEEE Conference --- 10.1109/ICBATS57792.2023.10111229
+9	Intelligent Disease Prediction System for Hepatitis C Patients 2023 International Multidisciplinary Journal of Science, Technology, and Business 2/4 https://doi.org/10.5281/zenodo.10613350
+10	Predictive Analytics in Cardiovascular Health: Leveraging Deep Learning Algorithms for Early Cardiac Disease Identification 2023 International Journal of Computational and Innovative Sciences 2/4 https://ijcis.com/index.php/IJCIS/article/view/96
+11	A Review and Future Research Recommendations on the Smart Energy Management system 2022 International Journal of Advanced Sciences and Computing 1/2 http://ijasc.com/index.php/ijasc/article/view/30
+12	Intelligent Hand Gesture Recognition System Empowered With CNN 2022 IEEE Conference --- 10.1109/ICCR56254.2022.9995760
+13	Estate Price Predictor for Multan City Townships Using Machine Learning 2022 IEEE Conference --- 10.1109/ICCR56254.2022.9996072
+14	Skin Cancer Detection and Classification Based on Deep Learning 2022 IEEE Conference --- 10.1109/ICCR56254.2022.9996077
+15	Neurological Disorder Detection Using OCT Scan Image of Eye 2022 IEEE Conference --- 10.1109/ICCR56254.2022.9996016
+16	Implementation of ML algorithm for mung bean classification using smart phone 2022 IEEE Conference --- 10.1109/ICBATS54253.2022.9759090
+17	Green Computing: A Contribution Towards Better Future 2020 Springer Singapore --- https://link.springer.com/chapter/10.1007/978-981-15-5232-8_57
+
+12.
+Nabeela Khalid
+Principal Lecturer
+nabeela.khalid@ucp.edu.pk
+Ext: 283
+Profile Summary
+Ms. Nabeela has approximately 7 years of professional experience in Testing department of Software Industry. She carries 3 years of teaching experience also in the field of Computer science. She completed her MS Computer Science from FAST-nu and worked in various software houses. Her study, research and experience focused on improving the quality of software products. Her interests include study of emerging software technologies and advancement in testing methodologies.
+
+Qualification
+MS CS	Software engineering	FAST - Lahore	2007
+BS CS	Computer science	UMT-ILM	2002
+Experience
+Computer instructor	Al-almas international	2017-2020
+Principal QA engineer	Strategic Systems	2009-2011
+Senior QA engineer	Netsol technologies	2007-2009
+QA engineer	Softech systems	2005-2007
+Lab instructor	ILM	2002-2003
+Publications
+
+13.
+Waseem Aslam
+Principal Lecturer
+Waseem.aslam@ucp.edu.pk
+Ext: 195
+Profile Summary
+I am an energetic and ambitious person with Plenty of experience of teaching in the field Of computer science and engineering. My research background  field is information Security, specially optimization of key sharing protocols by using Elliptic Curve cryptography.
+
+Qualification
+MS	Information Security	NUST	2014
+Experience
+Senior Lecturer	UCP	6 years
+Publications
+1	WOTFace: Web of Trust Based Relationship Establishment in Online Social Networks
+
+doktor yorumları
+
+kurye
+
+tesis kiralama
+
+
+14.
+Mr. Zain Asghar
+Principal Lecturer
+Zain.asghar@ucp.edu.pk
+Ext: 576
+Profile Summary
+Zain Asghar is an academic and professional with a strong background in both teaching and industry. He holds an MS in Computer Science from the University of Central Punjab, Lahore, where he was honored as a Gold Medalist for his outstanding academic performance. With a blend of theoretical expertise and practical experience, he makes learning engaging and impactful. His teaching emphasizes creativity, critical thinking, and problem-solving, while his expertise in E-Learning demonstrates his adaptability to modern education. Dedicated to growth and innovation, Zain continues to make meaningful contributions to both academia and the evolving technology landscape.
+
+Qualification
+MS	Computer Science	University of Central Punjab, Lahore	2019
+BS	Computer Science	Comsats University, Abbottabad	2016
+Experience
+Principal Lecturer	University of Central Punjab, Lahore	August 2025- Continue
+Senior Lecturer	University of Central Punjab, Lahore	March 2023 - July 2025
+Senior Lecturer	University of South Asia, Lahore	2021 - 2023
+Lecturer	Lahore Leads University, Lahore	2019 - 2021
+IT Manager	AIM Engineering Services, Lahore	2017 - 2019
+Senior Full Stack Software Engineer (Currently working as freelancer)	Fistix Technologies, Multan	2016 – 2017
+Publications
+Zain Asghar , Tahir Ali, Imran Ahmad, , Sridevi Tharanidharan, Shamim Kamal Abdul Nazar and Shahid Kamal, ”Sentiment Analysis on Automobile Brands using Twitter Data”, Proceedings of International Conference on Intelligent Technologies and Applications (INTAP 2018), Bahawalpur, Pakistan, Oct 23-25, 2018
+
+15.
+Abid Bashir
+Principal lecturer
+
+16.
+Shah Nawaz
+Principal Lecturer
+shah.nawaz@ucp.edu.pk, shahnawaz448@gmail.com
++92-333-6559448
+Profile Summary
+Mr. Shah Nawaz has 17 years professional experience as Lecturer, and IT professional. From last 08 years he is teaching core Software Engineering courses at university level. Currently he is pursuing his PhD in Secure Software. He received his MSCS from Riphah International University, Islamabad. Mr. Shah Nawaz’s research interest includes Secure Software, Software Security, Software Security Testing, and Software Design and Architecture. His academia action research strand focuses on multidisciplinary curriculum development, inclusive learning and participatory engagement in a collaborative research environment to support teaching & learning in lifelong sector.
+
+Prior to UCP, he served Lahore Garrison University and University of Gujrat, Lahore sub campus as Lecturer and Head of the Software Engineering Department respectively. Mr. Shah Nawaz served Public Sector Educational Research organization funded by The World Bank for more than 08 years as Assistant Director (IT) and Deputy Director. During his stay with The World Bank, Mr. Shah Nawaz closely worked with various international educational consultants from R&D institutions from Educational Testing System (ETS) USA, Australian Council for Educational Research (ACER) Australia, Cambridge Education, GIZ, and MMP. In parallel to this he has also worked on various educational projects with Danish School of Excellence, Punjab Information Technology Board (PITB), Punjab Curriculum and Textbook Board (PCTB), PMIU-PERSP. His area of expertise includes Teaching, Teaching Training, Technical Content Writing, Curriculum Development, Data Analysis, Report Writing, and Information Dissemination.
+
+Qualification
+PhD Computing	Secure Software	Riphah International University	Continued
+MS Computer Science	Secure Software	Riphah International University	2019
+Masters in Computer Science	Computer Science	Imperial College of Business Studies	2003
+Experience
+Principal Lecturer	University of Central Punjab (UCP) , Lahore, Pakistan	Nov 2023- Till to date
+Lecturer	Lahore Garrison University (LGU), Lahore, Pakistan	Nov 2020 – Oct 2023
+Lecturer / HoD	University of Gujrat, Lahore sub campus, Pakistan	Nov 2015 - Nov 2020
+Computer Programmer (BS-17) / Deputy Director (BS-18)	Punjab Education Assessment System, Govt of the Punjab, Education Department, Lahore, Pakistan	June 2006 – Mar 2015
+Publications
+1	Transformative Effects of IoT towards Smart Medical: Internet of Medical Things (IoMT) & Internet of Healthcare Things (IsoHT)	International Journal on Emerging Technologies	2021
+2	Object Oriented Incremental Process Model for Data Warehouse Implementation	The International Journal of Science in Society [C.G. Publisher], University of Illinois, USA	2011
+3	How to Assess Students’ Learning	The International Journal of Science in Society [C.G. Publisher], University of Illinois, USA	2011
+4	Vision on Effective Aid & Development	Academic Research International (AR Int.), Pakistan	2014
+
+17.
+Muhammad Zahid Hussain
+Principal Lecturer
+m.zahidhussain@ucp.edu.pk
++92 42 35880007 - Ext: 133
+Profile Summary
+Muhammad Zahid Hussain is currently serving as a Principal Lecturer at the University of Central Punjab (UCP) and is a PhD scholar at Riphah International University, Islamabad. He has over 10 years of experience in university teaching and the IT industry. He holds an MS in Computer Science from Riphah International University and a Bachelor’s degree in Software Engineering from International Islamic University, Islamabad. Previously, he served as a Lecturer at The University of Faisalabad, Riphah International University, and University of South Asia, as well as a Software Engineer in the web development field. Muhammad Zahid Hussain has expertise in Web Development, Databases, and Machine Learning, focusing his research on Computational Intelligence related areas.
+
+Qualification
+PhD (In Progress)	Computing	Riphah International University, Islamabad	Continued
+MS	Computer Science	Riphah International University, Islamabad	2018
+BS	Software Engineering	International Islamic University, Islamabad	2012
+PGD	Professional Ethics and Teaching Methodology	Riphah International University, Islamabad	2022
+Experience
+Principal Lecturer	University of Central Punjab (UCP)	Oct 2024 – Present
+Lecturer	University of South Asia	Feb 2023 – Oct 2024
+Lecturer	Riphah International University	March 2020 – Feb 2023
+Lecturer	The University of Faisalabad	Dec 2015 – Feb 2020
+Software Engineer	United Soft Solutions	Oct 2012 – Nov 2015
+Visiting Lecturer	University of Central Punjab (UCP)	October 2021 – Feb 2023
+Publications
+1	Taher M Ghazal, Muhammad Zahid Hussain, Raed A. Said, Afrozah Nadeem, Mohammad Kamrul, Munir Ahmed, Muhammad Adnan Khan and Muhammad Tahir Naseem (2021), “Performance of K-Means Clustering Algorithm with Different Distance Metrics”, Intelligent Automation & Soft Computing, August 11, 2021. IF = 3.401
+2	Muhammad Zahid Hussain, Imran Ahmad (2020), “An Improved Version of K-Means Clustering Algorithm”, GS International Conference on Computer Science and Engineering (GSICCSE-2020), Dubai, August 2, 2020
+3	Muhammad Umar Nasir, Ahmad Arslan, Muhammad Zahid Hussain, Arif Wicaksono Septyanto (2021),” Natural Language Processing and Machine Linguistic Interpretation”, The 7th International Conference on Next Generation Computing, Jejo, Korea, Nov. 4, 2021, ISSN 2672-1562 Vol 7 (235-237)
+4	Shanza Zaman, Muhammad Zahid Hussain, Imran Ahmad (2020), “Analytical Measurement of Social Media Content and Customer Behavior On Ladies Shoes Brands in Pakistan”, GS International Conference on Computer Science and Engineering (GSICCSE-2020), Dubai, August 2, 2020
+
+18.
+Usman Akbar Chaudhary
+ Principal Lecturer
+Usman.akbar@ucp.edu.pk
+Ext:
+Profile Summary
+A results-driven, articulate, and analytical Software Engineer with a strong problem-solving mindset and a passion for innovation. Skilled in designing and developing web applications, with expertise in full-stack development and project-based learning. Adept at creating engaging lesson plans, fostering a dynamic lab environment, and mentoring students in specialized projects. Focused on integrating emerging technologies for both UX and backend development, including PHP, HTML/CSS, Angular, Node.js, C++, C#, and MySQL, to enhance learning experiences and real-world applications.
+
+Qualification
+MSSE	Software Engineering	COMSATS Islamabad	2016
+BSCS	Computer Science	University of Sargodha (main campus)	2012
+Experience
+Principal Lecturer	University of Central Punjab	June 2024 - Till
+Senior Lecturer	University of Central Punjab	June 2022- June 2024
+Lecturer	UNIVERSITY OF CENTRAL PUNJAB, LAHORE	MARCH 2020 TO CONTINUE
+Senior Lecturer	SUPERIOR UNIVERSITY, LAHORE	NOVEMBER 2016 – MARCH 2020
+Lecturer	UNIVERSITY OF GUJRAT (LAHORE CAMPUS)	JAN-2016 TO NOVEMBER 2016
+Research Data Analyst	CERN Grind COMSATS Isb.	April-2015 To JAN 2016
+Web Development Engineer	Pixider Pvt. (Canada)	JAN-2010 to 2013
+Research Analyst	NEXTBRIDGE ISB. LTD	SEP-2013 TO JAN-2014
+Network Engineer Internee	CORVET SYSTEM LTD PAK, LAHORE	FEB-2013 TO AUG-2013
+Technical Support Representative	WebHosts (Sillanwali.COM)	JAN-2008 TO JAN 2010
+Publications
+1	Word spotting using clustering on extracted DCT and DWT features (2018, International Conference on Engineering and Emerging Technologies (ICEET)
+2	Accelerated GOU based protein sequence alignment–an optimized database sequences approach (2017, international journal of computer science and network security-IJCSNS)
+
+19.
+Mohsin Sami
+Principal Lecturer
+
+Profile Summary
+ 
+
+Qualification
+MSCS	IMAGE PROCESSING, DEEP LEARNING	University of Central Punjab	2019
+BSCS	WEB DEVELOPMENT, MACHINE LERANING	University of Central Punjab	2015
+ICS	COMPUTER, MATHEMATICS, STATISTICS	Punjab College of Information Technology, Lahore.	2010
+Experience
+Lecturer	University of Central Punjab	2019 - cont.
+Lab Instructor	University of Central Punjab	2016 - 2019
+Developer	D Cube	2014 - 2016
+Developer	Freelancing	2014 - 2016
+Publications
+1	“Breast Cancer Histopathological Image Classification using Deep Learning and SVM” [Manuscript, to be published]
+//////////////////////////////////////////////////////done
+
+
+20.
+Imran Ashraf
+Principal Lecturer
+imranashraf@ucp.edu.pk
+Profile Summary
+Mr. Imran Ashraf did his MS Software Engineering from UMT, Lahore. He is working at UCP as senior lecturer in the department of software engineering. He has a good number of years of educational experience in well reputed institutions. He has served at COMSATS Lahore, Virtual University Lahore, University of South Asia Lahore and Superior University Gold Campus Lahore. His area of interest includes development activities in software engineering i.e software design, implementation and software requirements engineering. He has deep interest in Object Oriented Methodology.
+
+Qualification
+MS Software Engineering	Software Engineering	UMT	2021
+Experience
+Senior Lecturer	Superior University, Gold Campus, Raiwind Rd, Lahore	December, 2021 – July, 2022
+Technical Consultant	Upgenics International, Gulberg II, Lahore	August, 2020 – December, 2021
+Lecturer	University of South Asia (USA) , Cantt. Lahore	August, 2011 – August, 2020
+Project Officer	Punjab Information Technology Board (PITB), Lahore	December , 2007 – August, 2009
+E-Lecturer (Software and Research Projects)	Government Virtual University (VU) of Pakistan	October, 2006 – May, 2007
+Research Associate	COMSATS Institute of Information Technology, Lahore	September, 2003 - September, 2005
+
+21.
+Mr. Taimoor Hassan
+Principal Lecturer
+taimoor.hassan01@ucp.edu.pk
+Profile Summary
+I am working as a Senior Lecturer in Department of Software Engineering, Faculty of Information Technology and Computer Science. I have total 11 years’ experience in which 10 years are teaching and 1 year from industry. I am doing PHD-SE (thesis work) from UOL-Lahore. I have 20 research publications in which some are journal, and some are conference category. Some research papers are under review process. Awarded two times best teacher award in Lahore Garrison University, Lahore.
+
+Qualification
+PHD-SE	Software Engineering	The University of Lahore, Lahore	2021-2024
+M.Phil.- CS	Computer Science	National College of Business Administration & Economics, Lahore	2013-2015
+MCS	Computer Science	The Islamia University of Bahawalpur	2009-2011
+B. Com	Commerce	The Islamia University of Bahawalpur	2007-2009
+I.C. S	Computer Science	Bahawalpur Board	2005-2007
+Matriculation	General Science	Bahawalpur Board	2003-2005
+Experience
+Senior Lecturer	Lahore Garrison University, Lahore	2018-2022
+Lecturer	Lahore Garrison University, Lahore	2015-2018
+Lecturer	Punjab Group of College	2015
+Lecturer	Govt. Boys Post Graduate Degree College	2013-2015
+Site In-charge	NADRA	2012-2013
+Publications
+1	Taimoor Hassan, Shoaib Hassan, Amna Pir Muhammad, Muhammad Asfand Yar, Semantic Technology and Ontology, International Journal of Computer Science and Information Security, Volume 14 No.5, (ISSN: 1947-5500) ISI Index, 05/05/2016
+2	Muhammad Soban Khan, Ans Ali Raza, Zeeshan Musawar, Shoaib Hassan, Taimoor Hassan, Towards Developing a Cost-Effective Solution for Environmental Monitoring, International Journal of Computer Science and Information Security, Volume 14 No.6, (ISSN: 1947-5500) ISI Index, 10/07/2016
+3	Taimoor Hassan, Imran Sarwar Bajwa, Shoaib Hassan, Prediction of Terrorists Activities by using Unsupervised Learning Techniques, Journal of Applied and Emerging Sciences, BUITEMS Pakistan, Volume 6 No.2, (ISSN: 2415-2633)
+4	Muhammad Ifrahim Yasir, Taimoor Hassan, Imran Sarwar Bajwa, Automated Business Rules Harvesting using Semantic Technology, Journal of Applied and Emerging Sciences, BUITEMS, Quetta, Pakistan, Volume 6 No.1, (ISSN: 2415-2633)
+5	Taimoor Hassan, Shoaib Hassan, Analyzing and Resolving Issues in Software Project Risk Management, Research Journal of Computer Science and Information Technology, Lahore Garrison University, Pakistan, Volume 1 Issue 1, (ISSN: 2519-7991)
+6	Muhammad Zulkifl Hassan, Zaka Ullah, Taimoor Hassan, Noor ul Qamar, Cloud Information Security Challenges and Accountable Solutions, Research Journal of Computer Science and Information Technology, Lahore Garrison University, Pakistan, Volume 2 Issue 1, (ISSN: 2519-7991)
+7	Taimoor Hassan, Sara Shahid, Saira Ahmad, Solution of Software Requirement issues in Software Organization, Research Journal of Computer Science and Information Technology, Lahore Garrison University, Pakistan, Volume 1 Issue 3, (ISSN: 2519-7991)
+8	Muhammad Zunnurain Hussain, Muhammad Zulkil Hasan, Zaka Ullah, Taimoor Hassan, Vehicular Data Cloud Services, Research Journal of Computer Science and Information Technology, Lahore Garrison University, Pakistan, Volume 2 Issue 5, (ISSN: 2519-7991)
+9	Taimoor Hassan, Muhammad Zunnurain Hussain, Muhammad Zulkifl Hasan, Raja Zaka Ullah, Build the Software Requirements Efficiency for Software Companies, Research Journal of Computer Science and Information Technology, Lahore Garrison University, Pakistan. (ISSN: 2519-7991)
+10	Taimoor Hassan, Muhammad Zulkifl Hasan, Zaka Ullah, Software Requirement Process for Software Industries, Volume 34, No. 2, 2018, Gomal University Journal of Research, Dera Ismail Khan, Khyber Pakhtunkhwa, Pakistan.
+11	Waseem Ahmad, Taimoor Hassan, Muhammad Atif Hasnain, Implementation of Real-time Database Queries in Push-based Querying Technique, Volume 34, No. 1, 2018, Gomal University Journal of Research, Dera Ismail Khan, Khyber Pakhtunkhwa, Pakistan.
+12	Muhammad Amjad Khan, Taimoor Hassan, Zaka Ullah, Information Security for Cloud using Image Steganography, Research Journal of Computer Science and Information Technology, Volume 5, No. 1, 2021, Lahore Garrison University, Pakistan. (ISSN: 2519-7991)
+13	Taimoor Hassan, Shoaib Hassan, Muhammad Asfand Yar, Waleed Younas, Imran Sarwar Bajwa, Semantic Analysis of Natural Language Software Requirement, IEEE International Conference on Innovative Computing Technology (INTECH2016) Dublin, Ireland; 09/02/2017
+14	Taimoor Hassan, Shoaib Hassan, Design Semantic Framework for Software Requirement Specification, IEEE International Conference on IT Convergence and Security 2016 (ICITCS2016), Prague, Czech Republic; 10/11/2016
+15	Taimoor Hassan, Muhammad Zunnurain Hussain, Muhammad Zulkil Hasan, Zaka Ullah, Noor-ul-Qamar, Quantitative Based Mechanism for Resolving Goals Conflicts in Goal-Oriented Requirement Engineering, International Conference on Intelligent Technologies, and Applications (INTAP2018)
+16	Noor Ul Qamar, Muhammad Habib, Waseem Ahmad, Taimoor Hassan, Crash-Resilient Synthesizer in Logic Optimization Paradigm for Sustainable Hardware Design of ASIC and Digital Systems, International Conference on Intelligent Technologies, and Applications (INTAP2019)
+17	Taimoor Hassan, Abrar Ahmad, Mehmood Anwar, Muhammad Nadeem Ali, Farva Saher, Muhammad Sajid Farooq, Basic Structure of Natural Language Processing Applied on Multiple Domains: Review, International IEE Conference on Innovative Computing (ICIC), 2021
+18	Iqra Naveed, Farwa Saher, Muhammad Nadeem Ali, Muhammad Sajid Farooq, Taimoor Hasan, Aqsa Iftikhar, VQ Based Comparative Analysis of MFCC and LPC Speaker Recognition System, International IEE Conference on Innovative Computing (ICIC), 2021
+
+22.
+Ms. Sidra Noreen
+Principal Lecture
+
+23.
+Ms. Zupash Awais
+Principal Lecture
+
+24.
+Hafiza Maria Kiran
+Senior Lecturer
+Maria.kiran@ucp.edu.pk
+Profile Summary
+Maria Kiran has 7.5 years of teaching experience, now working as a senior lecturer in UCP FOIT. She received her degree of MS Software engineering and BS Software Engineering degree both from University of Management and Technology. She has been lecturer in the University of Management and Technology for last 1.5 years.  She started her career from The University of Lahore as Lecturer in Computer Science Department. She is very motivated and passionate about teaching multidisciplinary courses in the domain of software engineering and computer science. Recently she has supervised a final year project which has been selected for the funding at IGNITE National Technology Funding. Her Research interests include Machine Learning, Data Mining, Data Science, Software Engineering. She has multiple publications in reputable journals and conferences over the past years.
+
+Qualification
+MS	Software Engineering	UMT	2017
+BS	Software Engineering	UMT	2015
+Experience
+Lecturer	UMT	1 Y & 8 M
+Lecturer	The University of Lahore	5 Y
+Publications
+1	H.M. Kiran, Z. Ali. “Requirement Elicitation Techniques for Open-Source Systems: A Review”. (IJACSA), Vol. 9, No. 1, 2018
+2	Zulfiqar ali, Hafiza Maria, Waseem Shahzad,” Evolutionary Algorithms for Query Optimization in Distributed Database Systems: A review”, ADCAIJ: Advances in Distributed Computing and Artificial Intelligence Journal Regular Issue, Vol. 7 N. 3 (2018)
+3	M. Kiran, H. Asim, M.T. Hassan, “Career and Skills Recommendations Using Data Mining Technique: Matching Right People for Right Profession, in Pakistani Context”. VFAST Transactions on Software Engineering Volume 13, Number 3, September-December 2018
+4	Zulfiqar Ali and Muhammad Nadeem Akhtar and Hafiza Maria Kiran and Rehan Ahmad and Zishan Hussain Chuhan and Waseem Shahzad, “Empirical Study of Associative Classifiers on Imbalanced Datasets in KEEL”, 2018 9th International Conference on Information, Intelligence, Systems and Applications (IISA)
+5	Nosheen Qamar, Hafiza Maria Kiran, Fatima Ahmad, Shehla Saeed, Beenish Abid, “Software Engineering Fresh Graduates Career Choices and Software Industry Demands: An Empirical Analysis”, IJCSNS International Journal of Computer Science and Network Security, VOL.20 No.12, December 2020
+
+25.
+Salah u din Ayubi
+Senior Lecturer
+Salahudin.ayubi@ucp.edu.pk
+03234764431
+Profile Summary
+Mr. Salah u din Ayubi did his MS Software Engineering from UMT, Lahore. He is working at UCP as senior lecturer in the department of software engineering. He has a good number of years of educational experience in well reputed institutions. He has served at UMT Lahore, University of South Asia Lahore, Lahore Garrison university and NCBA University Lahore. His area of interest includes development activities in software engineering i.e., software design, Machine learning, AI.
+
+Qualification
+MS	Software Engineering	UMT	2019
+Experience
+Senior Lecturer	Lahore garrison University	2022 - 2024
+Lecturer	NCBA	2019 - 2022
+Hod CS	Kips College	2017 - 2019
+Publications
+1	Naeem, A., Khan, A. H., u din Ayubi, S., & Malik, H. (2023). Predicting the Metastasis Ability of Prostate Cancer using Machine Learning Classifiers. Journal of Computing & Biomedical Informatics, 4(02), 1-7.
+2	Iqbal, M. K., Abid, K., u din Ayubi, S., & Aslam, N. (2023). Omicron Tweet Sentiment Analysis Using Ensemble Learning. Journal of Computing & Biomedical Informatics, 4(02), 160-171.
+3	Hassan, M., & Irfan, M. (2017). Efficient Prediction of Liver Disease using Selected Attributes. VFAST Transactions on Software Engineering, 5(1), 10-18
+4	Iqbal, S., Hussain, M., Munir, M. U., Hussain, Z., Mehrban, S., & Ashraf, M. A. (2019). Crypto-currency: future of FinTech. In FinTech as a Disruptive Technology for Financial Institutions (pp. 1-13). IGI Global.
+///////////////////////////////////////////////////// done
+
+
+26.
+Afifa Hameed
+Senior Lecturer
+afifa.hameed@ucp.edu.pk
+Profile Summary
+Miss Afifa Hameed has almost 8 years of teaching experience in reputable universities i.e., University of Sargodha, University of Lahore and University of Management and Technology. She received her MPhil in Computer Science from Kinnaird College University and BS in Computer Science from Government College University Lahore. She is very motivated and passionate about teaching multidisciplinary courses in the domain of software engineering and computer science. She is quite proficient in developing new activities to enhance the learning opportunities of the students. Her teaching style is quite energetic, creative and innovative. Her research interest includes Machine Learning, Image Processing, Artificial Intelligence, Deep Learning, Gamification, and E-Learning. She has multiple publications in reputable journals and conferences over the past years.
+
+Qualification
+MPhil	Computer Science	Kinnaird College for Women Lahore	2016
+Bachelors	Computer Science	Government College University	2013
+Intermediate	Computer Science	Government College gulberg	2009
+Research Interest
+Machine Learning, Deep Leaning, Data Mining, Generative AI, Image Processing, Gamification, Mobile and Web Development
+Recent Projects / Grants
+Human Posture Recognition using Mutlistream Deep Convulational Neural Network.
+Experience
+Lecturer	University of Management and Technology	2017-2022
+Lecturer	University of Lahore	2015-2017
+Lecturer	University of Sargodha	2014-2015
+Publications
+1	Aslam, N.; Xia, K.; Rustam, F.; Hameed, A.; Ashraf, I. Using Aspect-Level Sentiments for Calling App Recommendation with Hybrid Deep-Learning Models. Appl. Sci. 2022, 12, 8522. https://doi.org/10.3390/app12178522
+2	Shahid, M., Wajid, A., Haq, K. U., Saleem, I., & Shujja, A. H. (2019, November). A review of gamification for learning programming fundamental. In 2019 International Conference on Innovative Computing (ICIC) (pp. 1-8).IEEE.
+3	Wajid, M. J. Awan, F. Ferooz, S. Shoukat, M. Anwar and M. Mazhar, "Facebook Marketing Analytics," 2021 International Conference on Innovative Computing (ICIC), 2021, pp. 1-7, doi: 10.1109/ICIC53490.2021.9693023.
+4	Wajid, F. Ferooz and I. Rashid, "Identification of factors effecting Covid-19," 2021 International Conference on Innovative Computing (ICIC), 2021, pp. 1-7, doi: 10.1109/ICIC53490.2021.9693076.
+5	Siddiqua, T. Anees, A. Naseer, A. Wajid, N. Manzoor and T. Anjum, "China-Pakistan Economic Corridor (CPEC): Exploring the breakthrough of different Social Media Platforms in CPEC," 2021 International Conference on Innovative Computing (ICIC), 2021, pp. 1-6, doi: 10.1109/ICIC53490.2021.9692942.
+6	Saleem, S. Ambreen, M. Shahid, A. Wajid and A. H. Shujja, "Modeling GUI Widgets from Use Case Elaboration," 2019 International Conference on Innovative Computing (ICIC), 2019, pp. 1-7, doi: 10.1109/ICIC48496.2019.8966703.
+7	Using Aspect Level Sentiments for calling app recommendation with hybrid deep learning models
+
+27.
+Muhammad Tayyab Mir
+Senior Lecturer
+Tayyab.mir@ucp.edu.pk
+Profile Summary
+Mr. Tayyab Mir has 7 years of experience of teaching and industry as lecturer, ERP developer and IT consultant. He received his MS (Software Engineering) degree from University of Management and Technology in 2018. He is currently doing his PhD in Computer Science from University of Central Punjab. His research area is Machine Learning, Computer Vision and Image Retrieval. Mr. Tayyab Mir also have industrial experience of developing ERP systems on ODOO (an open source ERP).
+
+Qualification
+PhD	Computer Science	University of Central Punjab	In progress
+MS (Software Engineering)	Data Mining, Machine Learning	University of Management and Technology	2018
+BS Computer Science	Computer Science	University of Management and Technology	2015
+Experience
+Lecturer	University of Central Punjab	2022 to Date
+Lecturer	Bahria University	2017-2022
+ERP Developer	EnterpriseCube Solutions	2016-2017
+Junior Lecturer	University of Management and Technology	2015-2016
+Teaching Assistant	University of Management and Technology	2012-2015
+
+28.
+Rubab Javaid
+Senior Lecturer
+rubabjavaid@ucp.edu.pk
+Ext: 103
+Profile Summary
+ 
+
+Qualification
+MS Software Engineering	Software Engineering	National University of computer and Emerging Sciences (FAST-NUCES) Islamabad	2015-2017
+BS Software Engineering	Software Engineering	University of Sargodha, Sargodha main campus	2010-2014
+Experience
+Visiting Lecturer	University of Sargodha	Aug 2014- Aug2015
+Visiting Lecturer	University of Sargodha	Sep 2017- feb2018
+Lecturer	Superior University Lahore	Feb 2018- Oct 2018
+Lecturer	University of Central Punjab Lahore	Oct 2018 - Present
+Publications
+
+29.
+
+Ali Haider Arif
+Senior Lecturer
+ali.haider@ucp.edu.pk
+Profile Summary
+Mr. Ali Haider Arif is a zealous professional having experience of teaching and industry as a software developer. He holds a master’s degree (M.Phil in Computer Science) from Punjab University College of Information Technology (PUCIT), Lahore. He has received his bachelor’s degree in Information Technology from Punjab University College of Information Technology (PUCIT), Lahore. He has teaching experience including reputable public and private universities. Mr. Ali Haider Arif’s research interests include Data Science, Machine Learning, Deep Learning, and Web Development. He is always willing to facilitate the students in learning novel concepts and implement them in the field and try to fill the gap between industry and academia.
+
+Qualification
+M.Phil	Computer Science	University of the Punjab (PUCIT), Lahore	2020
+BS	Information Technology	University of the Punjab (PUCIT), Lahore	2018
+F.Sc	Pre-Engineering	BISE LAHORE	2014
+Matriculation	Science	FEDERAL BOARD	2012
+Experience
+Lecturer	University of Lahore	2021 - 2022
+Software Developer	MH Technologies	2020 - 2021
+Teaching Assistant	University of the Punjab	2017 - 2019
+Publications
+
+30.
+
+Haider Sultan Ahad
+Senior Lecturer
+haider.sultan@ucp.edu.pk
+Profile Summary
+Haider Sultan Ahad is a Senior Lecturer at the Software Engineering Department, UCP Lahore. He started his career in academia (HEIs) on 02nd Dec 2015. Since joining UCP, he has taught many courses such as ITC, OOP, Database Systems, Business Process Engineering, Software Requirement Engineering, Formal Methods in SE, and Operations Research. He has been actively involved in academic administration, serving as a member of the UG Accreditation (NCEAC) Committee, along with Final Year Project Supervision and OBE implementation.
+
+His research interests include data analytics and operations research. Previously, as Team Lead of MOODLE LMS, he played a key role in virtual education transformation and assessment policies during COVID-19.
+
+He emphasizes project-based learning, peer learning, and hands-on training to enhance student engagement and skill development. He has also been involved in event organization, seminars, and industry outreach initiatives.
+
+Qualification
+MS	Computer Science	SEECS-NUST	2016
+BS	Computer Science	COMSATS University 	2013
+Experience
+Senior Lecturer     	University of Central Punjab     	 July 2024 - Contd.
+Lecturer         	  University of Central Punjab     	Sep 2021 - July 2024
+Lecturer         	  University of Lahore          	   Sep 2020 - Aug 2021
+Lecturer           	Lahore Garrison University        	Dec 2015 - Aug 2020
+Publications
+1	Mago Vistro, D., Anam Hassan, W., Mahmood, Z., Iftikhar, W. and Sultan Ahad, H., 2021. ADOPTION OF HOSPITAL INFORMATION SYSTEMS A CLOUD. Global Conference on Computing & Media Technology, 5th.
+2	Mago Vistro, D., Iftikhar, W., Mahmood, Z., Sultan Ahad, H., Anam Hassan, W. and Mahmood, Y., 2021. Applied Data Analytics for Cervical Cancer Data: Using SAS, Hadoop and Tableau. Global Conference on Computing & Media Technology, 5th.
+///////////////////////////////////////////////////Done
+
+
+31.
+
+Ahsan Azhar
+Senior Lecturer
+ahsan.azhar@ucp.edu.pk
+Profile Summary
+He has Master of Philosophy degree in Electronics from Quaid-i-Azam University Islamabad. He has done his Graduation in Electronics, from the same institution. He is associated with University of Central Punjab, as a Lecturer in Faculty of Information Technology. His research interests and field of specialty span in computer Architecture, Deep Learning, Machine learning and Embedded Systems. His research work is in Ad-Hoc Networks.
+
+Qualification
+M.Phil	Wireless Communications	Quid-i-Azam University Islamabad	2012
+M.Sc	Electronics	Quid-i-Azam University Islamabad	2009
+Experience
+Lecturer	University of Central Punjab, Lahore	2021 to date
+Lecturer	FAST-NU Lahore	2018-2021
+Lecturer	Moon System of Education	2019-2017
+Lecturer	Royal College of Science and Technology	2014-2016
+Project Manager	CNC, Quaid-i-Azam University Islamabad	2012-2014
+Tech III	Fauji Fertilizers Company	2004-2007
+Publications
+
+32. 
+Sehar Zia
+Senior Lecture
+
+33.
+Sarah Javed
+Senior Lecturer
+Sarahjaved@ucp.edu.pk
+Ext:
+Profile Summary
+“A highly accomplished Cybersecurity analyst with experience of working with the Department of Science and Technology and Centre for High-Performance Computing under the UNDP Goals provided for Horizon 2030 in Africa in monitoring network incidents and their security. Skilled at DDOS Attacks, SDN, Cyber Security, and Network security in low resource community networks standards. Proven track record of identifying emerging technology capabilities. Adept at disaster recovery implementation. Accustomed to all protocols, regulations, policies, and safety rules. Assists and mentors data security, Network Security inductees with administrative and protocols. Sarah earned a respect for Pakistan by being the only 1 Pakistani who got selected at NRF for Doctoral studies in the year 2019. Sarah is completing her Ph.D. studies as a fully Funded Ph.D. candidate on NRF TWAS Doctoral Scholarship awarded back in 2019. Sarah has a list of academic achievements in her entire career as she obtained a Gold Medal in her MS Studies at COMSATS University and her MS studies had been completed as PEEF Scholar. Her research interest are SDN, DDOS Attacks, Network security in low resource Network and Community Networks”
+
+Qualification
+PhD	Computer Science	University of Cape Town	2021
+MSCS	Computer Sceince	COMSATS	2019
+BSc	Computer Science	COMSATS institute of information Technology	2017
+Research Interest
+Cyber Security, Mchine learning, Deep learning and Software Defined Networks
+Recent Projects / Grants
+TWAS-NRF Doctoral Program
+Experience
+Lecturer	Lahore Garrison University	2019
+Publications
+1	T. Ali, S. Yasin, U. Draz, T. Tariq, S. Javaid, and M. A. Arshad, "Motif Detection in Cellular Tumor p53 Antigen Protein Sequences by using Bioinformatics Big Data Analytical Techniques," INTERNATIONAL JOURNAL OF ADVANCED COMPUTER SCIENCE AND APPLICATIONS, vol. 9, no. 5, pp. 330-338, 2018.
+2	Ahmad Shaf, Tariq Ali, Sarah Javed, et al: Two Classes Classification using Different Optimizers in Convolutional Neural Network, Paper ID # 203, In IEEE INMIC 2018. (Accepted)
+3	Qasim Abbas, Tariq Ali, Hussnain Abass, Sarah Javaid and Tanzeela Hussain,” Location-free Voting System with the help of IOT Technology”,12th International Conference on Mathematics, Actuarial Science, Computer Science and Statistics (MACS-12) 2018.
+4	Qasim Abbas, Tariq Ali, Anum Ghaffar, Samreen Arshad, M. Awais Ali and Sarah Javaid” An Efficient Video Editing Application for Android based Technologies” The Indian Journal of Science & Technologies.(Submitted).
+5	S. Yasin ,T.Ali, , U. Draz ,A.Jamal, S. Javaid, Q.Abbas and Z.Sharif "Towards Analysis the Parametric Effects of Hotspot Issue in Wireless Sensor Network (WSN) under TCP and UDP" INTERNATIONAL JOURNAL OF ADVANCED COMPUTER SCIENCE AND APPLICATIONS
+
+34.
+Muhammad fiaz Mustafa
+Senior lecture
+
+35.
+Muhammad Shakeel
+Senior lecture
+
+36.
+Ms. Maham Meher
+Senior Lecturer
+maham.mehr@ucp.edu.pk
+Profile Summary
+Ms. Maham Meher has received her MS degree in Software Engineering from College of Electrical and Mechanical Engineering (CEME), National University of Sciences and Technology (NUST). She also got Indigenous prize scholarship on her excellent academic record during masters. She has 4.5 years’ career as Lecturer and Teacher Assistant in various reputed universities in Pakistan. Ms. Maham’s research interests include Software Engineering, Design and Architecture, Risk Identification, Risk mitigation, Software Quality.
+
+Qualification
+MS	Software Engineering	NUST	2018
+BS	Software Engineering	UOS	2013
+Experience
+Lecturer	UCP	2020- Till date
+Lecturer	LGU	2018-19
+TA	NUST	2015-17
+Visiting Lecturer	UOS	2013-14
+Publications
+1	K. M. Awan, T. Iqbal, M. M. Awan and S. Sagheer, "Quantification of Pakistani Brand's responsiveness on Social Media: Twitter," 2019 International Conference on Innovative Computing (ICIC), Lahore, Pakistan, 2019, pp. 1-7, doi: 10.1109/ICIC48496.2019.8966713
+2	M. Ali, S. Malik, Z. Khalid, M. M. Awan, and S. Ahmad, "Security Issues, Threats and Respective Mitigation In Cloud Computing–A Systematic."
+3	M. Awan, A. Fatima and K. Awan, "Detection of Tuberculosis using Hybrid Features from Chest Radiographs", LGURJCSIT, vol. 4, no. 432020, pp. 39-46, 2020
+
+37.
+Ms. Hira Asim
+Senior lecturere
+
+38.
+Tehreem Rai 
+Lecturer
+
+39.
+Madiha Yousaf Malik
+Lecturer
+madiha.yousaf@ucp.edu.pk
+Ext: 103
+Profile Summary
+Ms. Madiha is a motivated and enthusiastic educator who had been part of the Faculty of Information Technology since 2019. She holds an MS degree in Computer Software Engineering from National University of Sciences and Technology (NUST). She has been serving education sector right after her graduation. Her innovative and forward-thinking leadership ability always guide students to offer appropriate technology solutions. Her area of Interest is Software Engineering. Her role involves teaching different core/elective courses in the domain of Software Engineering and supervising final-year projects, counselling and helping students as student adviser and educating them about different areas of Computer Science.
+
+Qualification
+MS	Software Engineering	National University of Science and Technology (NUST)	2019
+BS	Software Engineering	University of Sargodha, Sargodha	2014
+Experience
+Lecturer	University of Sargodha, Sargodha	2014-2015
+Lecturer	FAST-NUCES, Lahore	2018-2019
+Lecturer	University of Central Punjab	2019-present
+Publications
+///////////////////////////////////////////////// Done
+
+40.
+Saira Latif 
+Lecturer
+
+41.
+Areesha Sajjad
+Lecturer FOIT
+Areesha.sajjad@ucp.edu.pk
+Ext: 03107223199
+Profile Summary
+Ms. Areesha Sajjad is a dedicated academic professional with a strong background in Computer Science and Software Engineering. She holds an MPhil in Computer Science from Foundation University Islamabad (2021) and a Bachelor’s degree in Software Engineering from UET Taxila (2017). Her academic journey also includes a solid foundation in Computer Science, Physics, and Mathematics from Global College System (2013), as well as a science-focused Matriculation from Army Public School and College System (2011).
+
+Currently serving as a Lecturer in Software Engineering at the University of Central Punjab Lahore (2024 – present), Ms. Areesha Sajjad brings valuable experience in teaching and curriculum development. Prior to this, she served as a Permanent Lecturer in Computer Science at the National College of Business Administration and Economics (2023-2024), and as a Senior Computer Teacher at Fauji Foundation College Lahore Cantt (2020-2021). In addition to his academic roles, she has worked as a Graphic Designer at Mekaal Studios (2019), where she honed her creative and technical skills.
+
+Her academic interests span Software Engineering, Computer Science education, and technology integration in teaching and learning. Ms. Areesha Sajjad is passionate about fostering a collaborative and inclusive learning environment, focusing on innovative approaches to curriculum development and practical industry applications. She is committed to empowering students with both theoretical knowledge and hands-on experience to prepare them for the challenges of the rapidly evolving tech landscape.
+
+Qualification
+MPhil Computer Science	Computer Science	Foundation University Islamabad	2021
+Bachelors in Software Engineering	Software Engineering	UET Taxila2	2017
+ICS	Computer Science, Physics, Maths	Global College System	2013
+Matric	Science	Army Public School and College System Humayun road RWP	2011
+Experience
+Lecturer Software Engineering	University of Central Punjab Lahore	2024 - continue
+Permanent Lecturer Computer Science	National College of Business Administration and Economics	2023-2024
+Senior Computer Teacher	Fauji Foundation College Lahore Cantt	2020-2021
+Graphic Designer	Mekaal Studios	2019
+Publications
+
+42.
+Laraib Imran
+Lecturer FOIT
+Laraib.imran@ucp.edu.pk
+03345000347
+Profile Summary
+I am a passionate computer science teacher with proven track record of 5 years of helping students in both private and government sector. Previously, I worked in TEVTA as a Lecturer where I successfully undertook additional responsibilities as a student recruiter, career counselor and project coordinator. As a student recruiter and career counselor, I successfully placed over 200 students in computer-related programs. During this career, I also served one year as a project coordinator at TANG International Education Group and Collaborated with development and QA team to review progress and provide support. I also worked as a permanent lecturer at NCBA&E. Currently, I am working as a lecturer at University of Central Punjab.
+
+Qualification
+MS Software Engineering	Software Engineering	University of Management & Technology, Lahore	2019-2022
+BS Computer Science	Computer Science	Government College University, Lahore	2014-2018
+ICS (Physics)	Computer Science	Govt. Kinnaird College for Women, Lahore	2012-2014
+Matric	Computer Science	Sanit Stephan Cambridge School (Girls) 12-A Jail Road, Lahore	2010-2012
+Experience
+Permanent Lecturer	University of Central Punjab, Lahore	2024-Present
+Permanent Lecturer	National College of Business Administration & Economics	2023-2024
+Visiting Lecturer	TEVTA, Punjab	2022-2023
+Visiting Lecturer	TEVTA, Punjab	2021-2022
+Permanent Computer Science Teacher	Hashmat Memorial School for Boys & Girls (Imamia Colony, Sheikhupura)	2018-2021
+Publications
+
+43.
+Maham Noor 
+Lecturer
+
+44.
+Rida Maryam
+Lecturer
+
+45.
+Khizer Hayat 
+Lecturer
+
+46.
+Iqra Tahir
+Lecturer
+iqra.tahir@ucp.edu.pk
+Ext:
+Profile Summary
+Qualification
+Computer science	Ucp Lahore	In progress
+Software Engineering	EME Nust Islamabad	2019
+Research Interest
+Machine learning , bio medical
+Experience
+Associate lecturer	CFE	2019-2020
+Software quality assurance	Blue orca studio/project kinnect2	2015-2016
+Publications
+
+47.
+Mubashra anwar 
+lecturer
+
+48.
+Lalaen Sultan
+Associate Lecturer
+lalaen.sultan@ucp.edu.pk
+Profile Summary
+Lalaen Sultan is quite passionate and ambitious person who always work hard to achieve her career goals. She has great leadership, communication and research skills. She is currently working as an Associate Lecturer at University of Central Punjab, Lahore. She had previously worked as a Lecturer at Lahore Garrison University, Lahore. She is also pursuing the Ph.D. degree with Lahore College for Women University, Lahore. Her research interests include robotics, artificial intelligence, deep learning, software engineering, and the Internet of Things. Her greatest passion is to invest in learning, and contribute to the society through her knowledge.
+
+Qualification
+MS	Computer Science	Lahore College for Women University	2017 - 2019
+Experience
+Associate Lecturer	University of Central Punjab	2022 - Present
+Lecturer	Lahore Garrison University	2021 - 2022
+Publications
+1	L. Sultan, M. Anjum, M. Rehman, S. Murawwat and H. Kosar, "Communication Among Heterogeneous Unmanned Aerial Vehicles (UAVs): Classification, Trends, and Analysis," in IEEE Access, vol. 9, pp. 118815-118836, 2021, doi: 10.1109/ACCESS.2021.3107479.
+
+49.
+M Usman Bhatti
+Associate Lecturer
+Muhammad.usman1@ucp.edu.pk
+03216237332
+Profile Summary
+Earned an MS in Computer Science from COMSATS University Islamabad, Lahore Campus, in June 2022, with a thesis focused on data mining, following a BS in Information Technology from PUCIT. Started as a visiting lecturer at the University of Central Punjab (UCP) in December 2022 and was appointed as a permanent faculty member in November 2023. Previously, served as the Head of the Computer Science Department at Central Group of Colleges, Ichhra, from 2017 to 2022, and worked as a Lecturer at Minhaj University Lahore from March 2023 to October 2023.
+
+Qualification
+Degree MS CS	Major CS	Institute COMSATS University Islamabad	2022
+Experience
+Lecturer	UCP	Continue
+Lecturer	Minhaj University	March 2023 to OCT 2023
+HOD	Central college	2017 to 2022
+Publications
+///////////////////////////////////////////////// dONE
+
+
+50.
+Zainab Saeed
+Lab Instructor
+zainab.saeed@ucp.edu.pk
+03064450817
+Profile Summary
+Zainab Saeed has 6 months ’ of experience as a Software Developer and Data Analyst. She received her Bachelors degree from PUCIT.
+
+Qualification
+BS Software Engineering	Software Engineering	PUCIT	2019-2023
+Experience
+Associate Software Engineer	Devsinc	11/2023 - 04/2024
+Publications
+
+51.
+Javaria Tanveer
+Lab Instructor
+Javaria.tanveer@ucp.edu.pk
+Profile Summary
+With a Bachelor’s degree in Software Engineering from the University of Central Punjab, Lahore, where I achieved a CGPA of 3.98, I have specialized in artificial intelligence and natural language processing, focusing on fake news detection in Urdu for my final year project. My expertise includes developing AI-powered solutions, implementing transformer-based models, and integrating neural network architectures.
+
+Currently, I am employed as a Lab Instructor at the University of Central Punjab, Lahore. In this role, I guide and mentor students in a hands-on learning environment, fostering their skills in software development, and problem-solving. Additionally, I have led and contributed to several technical projects and entrepreneurial events, further showcasing my leadership and collaborative skills.
+
+Qualification
+BSSE	Software Engineering	University of Central Punjab, Lahore	2024
+FSc	Pre engineering	Punjab Group of Colleges	2020
+Experience
+Web Developer	Fiverr	2023
+Social Media Manager	Estate News	2022
+Publications
+
+52.
+Abid Fareed
+Lab Instructor
+Abid.fareed@ucp.edu.pk
+Ext: 7141
+Profile Summary
+He is a dedicated Software Engineer with a stellar CGPA of 3.89 from UCP, currently leveraging expertise as a Lab Instructor. Passionate about teaching and technology, with a focus on fostering student learning and practical application of software engineering principles.
+
+Qualification
+BSSE	Software Engineering	University of Central Punjab, Lahore	2024
+Experience
+Publications
+
+53.
+Misha
+Lab instructor
+misha@ucp.edu.pk
+Ext:
+Profile Summary
+With a Bachelor’s degree in Software Engineering from the University of Central Punjab, Lahore, I  have specialized in artificial intelligence, focusing on person reidentification for my final year project. My expertise spans developing both web and desktop applications integrated with AI technologies. Currently, I am employed as a Lab Instructor at the University of Central Punjab, Lahore, where I contribute to the practical learning experience of students in a dynamic academic environment. My role involves guiding and mentoring students with a hands-on approach in the laboratory, fostering their skills in software development and AI applications.
+
+Qualification
+BSSE	Software Engineering	University of Central Punjab, Lahore	2024
+Experience
+Web Developer	Asian Solution Pvt. Ltd.	2021
+Publications
+
+54.
+Syed Fitrus Abbas
+Lab instructor
+fitrus.abbas@ucp.edu.pk
+Profile Summary
+Syed Fitrus Abbas is a dedicated professional with a strong foundation in Information Technology and a passion for teaching and mentoring. He completed his graduation from the University of the Punjab (FCIT) and is currently serving as a Lab Instructor at the University of Central Punjab.
+
+With a focus on fostering interactive learning environments, Syed Fitrus Abbas is committed to helping students bridge the gap between theoretical knowledge and practical application. His professional journey reflects a dedication to academic excellence and continuous growth in the field of education.
+
+In addition to his teaching role, he has experience in web development and model training using advanced tools for image detection and clustering. Syed Fitrus Abbas aims to contribute to impactful research, enhance his teaching methodologies, and inspire students to excel in the ever-evolving world of technology.
+
+Qualification
+BS	IT	University of the Punjab (PUCIT)	2020 - 2024
+Experience
+Publications
+
+55.
+Iqra Javaid
+Lab Instructor FOIT
+Iqra01@ucp.edu.pk
+Ext:
+Profile Summary
+Iqra Javaid is a committed professional who works as a Lab Instructor at the University of Central Punjab (FOIT) in the Software Engineering department. After completing her Intermediate (ICS) from Punjab Group of Colleges in 2020 and her Matriculation in Science from Sir Syed Model School in 2018, she went on to earn her Bachelor of Science in Software Engineering from the University of Central Punjab in 2024. In 2024, Iqra has acquired real-world experience as a Frontend Developer at Softtectpanel in addition to her academic achievements. She is dedicated to helping her students develop a solid foundation in software engineering. Her focus is still on teaching and industry participation, even though she hasn’t published anything yet. Iqra can be contacted by email at Iqra01@ucp.edu.pk or by phone at 03086812213.
+
+Qualification
+Bachelors in Software Engineering	Software Engineering	University of Central Punjab	2024
+ICS	Computer Science, Physics, Maths	Punjab Group of College	2020
+Matric	Science	Sir Syed Model School	2018
+Experience
+Lab Instructor	University of Central Punjab Lahore	2024 - continue
+Frontend Developer	Softtectpanel	2024
+Publications
+
+56.
+Danish Ali Khan
+Lab Instructor
+Danish.ali1@ucp.edu.pk
+Ext:
+Profile Summary
+He is a dedicated Software Engineer with a stellar CGPA of 3.95 from UCP, currently leveraging expertise as a Lab Instructor. Passionate about teaching and technology, with a focus on fostering student learning and practical application of software engineering principles.
+
+Qualification
+BS-SE	Software Engineering	University of Central Punjab	2024
+Experience
+Publications
+
+57.
+
+Amina Tahir
+Lab Instructor
+Amina.tahir@ucp.edu.pk
+Ext: 496
+Profile Summary
+Ms. Amina Tahir has two years of experience in industry and academia. She holds BS in Software Engineering from University of Central Punjab, Lahore.
+
+Qualification
+BS	Software Engineering	University of Central Punjab, Lahore	2024
+ICS	CS	Punjab Group of Colleges,Gujranwala	2019
+Experience
+English and Computer Teacher	Leadership School, Lahore	2023- March 2024
+Mathematics Teacher	American Lyceum, Lahore	2022
+Publications
+
+

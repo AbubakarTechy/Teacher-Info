@@ -1,0 +1,67 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Search Results | FOIT Faculty</title>
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+
+  <!-- Navbar -->
+  <nav class="navbar">
+    <div class="nav-left">
+      <a href="/" class="logo">
+        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 19.5v-15A2.5 2.5 0 0 1 6.5 2H20v20H6.5a2.5 2.5 0 0 1 0-5H20"/></svg>
+        Teacher Book
+      </a>
+    </div>
+    <div class="nav-right">
+      <a href="/">Home</a>
+      <a href="/all_teachers">All Teachers</a>
+    </div>
+  </nav>
+
+  <section class="hero" style="min-height: 40vh; padding: 4rem 2rem 2rem 2rem;">
+    <div class="inner">
+      <h1 class="title">Search Results</h1>
+      {% if query %}<p class="subtitle">Showing results for "{{ query }}"</p>{% endif %}
+      
+      <div class="search-bar" style="margin-top:2rem;">
+        <form action="/search" method="post">
+          <input class="search" type="text" name="name" value="{{ query }}" placeholder="Search by name (e.g., Hira)" autocomplete="off">
+          <button class="btn" type="submit">Search</button>
+        </form>
+      </div>
+    </div>
+  </section>
+
+  <section class="teachers" style="padding-top:2rem; min-height:50vh;">
+    {% if teacher_list %}
+      <div class="grid">
+        {% for t in teacher_list %}
+          <a href="{{ url_for('teacher_detail', email=t['email']) }}" class="card">
+            <div class="card-img-wrapper">
+              <img src="{{ t['picture_url'] }}" alt="{{ t['name'] }}" loading="lazy">
+            </div>
+            <h3>{{ t['name'] }}</h3>
+            <p class="muted">{{ t['department'] }}</p>
+            <div class="btn-link">View Profile</div>
+          </a>
+        {% endfor %}
+      </div>
+    {% else %}
+      <div style="text-align:center; padding: 4rem 0;">
+        <svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="var(--border-hover)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" style="margin-bottom:1rem;"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/></svg>
+        <h3 style="color:var(--text-secondary); margin-bottom:0.5rem;">No teachers found</h3>
+        <p style="color:var(--border-hover);">Try searching for partial names like "Hira" or "Usman".</p>
+      </div>
+    {% endif %}
+  </section>
+
+  <footer class="footer">
+    <p>Developed with precision. &copy; 2026 FOIT</p>
+  </footer>
+
+</body>
+</html>
